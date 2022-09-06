@@ -26,7 +26,7 @@ class Gato {
     }
 
     /**
-     * Muestra la presentacion del Gato
+     * Devuelve la presentacion del Gato
      * @returns la presentacion del Gato
      */
     comoTeLlamas() {
